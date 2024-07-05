@@ -1,0 +1,34 @@
+.site-header-nav-menu {
+  width: 1110px;
+  font-size: 0;
+  margin: 0 auto;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.site-header-nav {
+  padding: 33px 165px;
+  background-color: #e1ede6;
+}
+.site-header-menu {
+  font-family: "RM";
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 23px;
+  letter-spacing: 0em;
+}
+
+.header-menu {
+  list-style: none;
+  margin-right: 58px;
+}
+.header-menu:last-child {
+  margin-right: 0;
+}
+
+.site-header-menu {
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  margin: 0;
+}

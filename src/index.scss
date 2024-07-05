@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: "RM";
+  src: url("fonts/Raleway-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #2c2d35;
+}
+
+.site-wrapper {
+  background-color: #f4f6f5;
+}
